@@ -30,6 +30,7 @@ Configure Windows to have Docker wihtout DockerDesktop
 
 - Configure clients (IntelliJ, VisualStudio): tcp://localhost:2375
 - Deploy Docker Monitoring+Desktop alternative: https://docs.portainer.io/v/ce-2.9/start/install/server/docker/wsl 
+- Add environment variable DOCKER_HOST=tcp://localhost:2375
 
 #### Docker on Windows
 - https://docs.docker.com/engine/install/binaries/#install-server-and-client-binaries-on-windows
