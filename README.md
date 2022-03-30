@@ -34,3 +34,6 @@ Configure Windows to have Docker wihtout DockerDesktop
 
 #### Docker on Windows
 - https://docs.docker.com/engine/install/binaries/#install-server-and-client-binaries-on-windows
+
+#### Docker compose
+- https://docs.docker.com/compose/cli-command/#install-on-linux
